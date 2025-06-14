@@ -1,0 +1,78 @@
+match:
+  series: "ICC World Test Championship Final 2025"
+  venue: "Lord's, London"
+  date: "2025-06-11 to 2025-06-15"
+teams:
+  - Australia
+  - South Africa
+
+innings:
+  - number: 1
+    batting_team: Australia
+    total: 212
+    overs: 56.4
+    wickets: 10
+    fall_of_wickets:
+      - {wkt: 1, batsman: Khawaja, score: 12, over: 6.3}
+      - {wkt: 2, batsman: M. Green, score: 16, over: 6.6}
+      - {wkt: 3, batsman: Labuschagne, score: 46, over: 17.6}
+      - {wkt: 4, batsman: Head, score: 67, over: 23.2}
+      - {wkt: 5, batsman: Smith, score: 146, over: 41.6}
+      - {wkt: 6, batsman: Carey, score: 192, over: 51.1}
+      - {wkt: 7, batsman: Cummins, score: 199, over: 52.4}
+      - {wkt: 8, batsman: Webster, score: 210, over: 54.4}
+      - {wkt: 9, batsman: Lyon, score: 211, over: 55.5}
+      - {wkt: 10, batsman: Starc, score: 212, over: 56.4}
+
+  - number: 2
+    batting_team: South Africa
+    total: 138
+    overs: 57.1
+    wickets: 10
+    fall_of_wickets:
+      - {wkt: 1, batsman: Markram, score: 0, over: 0.6}
+      - {wkt: 2, batsman: Rickelton, score: 19, over: 8.4}
+      - {wkt: 3, batsman: Mulder, score: 25, over: 15.2}
+      - {wkt: 4, batsman: Stubbs, score: 30, over: 20.2}
+      - {wkt: 5, batsman: Bavuma, score: 94, over: 39.2}
+      - {wkt: 6, batsman: Verreynne, score: 126, over: 51.3}
+      - {wkt: 7, batsman: Jansen, score: 126, over: 51.6}
+      - {wkt: 8, batsman: Bedingham, score: 135, over: 55.2}
+      - {wkt: 9, batsman: Maharaj, score: 138, over: 56.5}
+      - {wkt: 10, batsman: Rabada, score: 138, over: 57.1}
+
+  - number: 3
+    batting_team: Australia
+    total: 207
+    overs: 64.6
+    wickets: 10
+    fall_of_wickets:
+      - {wkt: 1, batsman: Khawaja, score: 28, over:10.2}
+      - {wkt: 2, batsman: Green, score: 28, over:10.4}
+      - {wkt: 3, batsman: Labuschagne, score: 44, over:17.5}
+      - {wkt: 4, batsman: Smith, score: 48, over:18.5}
+      - {wkt: 5, batsman: Webster, score:64, over:22.6}
+      - {wkt: 6, batsman: Head, score:66, over:23.4}
+      - {wkt: 7, batsman: Cummins, score:73, over:24.5}
+      - {wkt: 8, batsman: Carey, score:134, over:38.2}
+      - {wkt: 9, batsman: Lyon, score:148, over:42.4}
+      - {wkt: 10, batsman: Hazlewood, score:207, over:64.6}
+
+  - number: 4
+    batting_team: South Africa
+    total: 213
+    overs: 56.0
+    wickets: 2
+    target: 282
+    runs_needed: 69
+    is_day_end: true
+    batting:
+      - {batsman: Markram, runs: 102, balls: 159, fours: 11, sixes: 0, not_out: true, sr: 64.15}
+      - {batsman: Bavuma, runs: 65, balls: 121, fours: 5, sixes: 0, not_out: true, sr: 53.72}
+    partnership:
+      - {between: [Markram, Bavuma], runs: 143, balls: 232}
+    extras:
+      {byes: 8, leg_byes: 3, noballs: 2, wides: 0}
+    fall_of_wickets:
+      - {wkt: 1, batsman: Rickelton, score: 9, over: 2.1}
+      - {wkt: 2, batsman: Mulder, score: 70, over: 17.4}
